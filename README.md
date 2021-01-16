@@ -1,3 +1,2 @@
 # hello-world
-Learning to Git on this Hub !
-This will be my first COMMIT on GitHub !
+This is my attempt to learn Git and GitHub from Edureka YouTube channel.
